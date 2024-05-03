@@ -1,0 +1,77 @@
+.mic{margin-left: 42px;
+    border-radius: 23px;cursor: pointer;}
+.header{display: flex;}
+.ep{margin-left: 963px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-family: math;
+    margin-top: 41px;
+    color: darkblue;}
+.ep:hover{color: black;
+    font-size: 25px;    cursor: pointer;}
+body{margin: 0;}
+.main1{display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 37px;}
+.img1{height: 30px;
+    border-radius: 80px;cursor: pointer;
+}
+.img1:hover{    height: 53px;}
+.mainfirst{flex: 1;}
+.head1{font-size: 63px;
+    color: darkslategray;
+    line-height: 1;
+    font-family: math;margin: 0;}
+.p1{font-size: 21px;
+    color: darkgreen;
+    letter-spacing: 1;}
+.button{color: white;
+    background: darkblue;
+    padding: 10px;
+    padding-left: 28px;
+    padding-right: 28px;
+    letter-spacing: 1;
+    font-size: 15px;
+    border-radius: 7px;
+    border: none;cursor: pointer;}
+.button2{color: white;
+    background: goldenrod;
+    padding: 10px;
+    padding-left: 28px;
+    padding-right: 28px;
+    letter-spacing: 1;
+    font-size: 15px;
+    border-radius: 7px;
+    border: none;
+    margin-left: 22px;cursor: pointer;}
+.p2{color: darkgreen;
+    font-weight: bold;
+}
+.smallheading{margin-top: 52px;
+    color: darkslategray;
+    font-size: 20px;
+    font-family: math;}
+.ani{height: 543px;
+    width: 348px;
+    margin-left: 87px;
+    border: 4px solid black;
+    margin-top: -36px;
+    border-radius: 6px;}
+.sub{display: inline-block;
+    margin-left: 253px;
+    margin-top: 8px;
+    color: darkslategray;}
+.main2{background: lightgray;
+    margin-top: 61px;}
+h2{font-family: sans-serif;font-size: 32px;text-align: center;}
+h4{margin-top: -13px;
+    text-align: center;}
+.s2{margin-left: 82px;
+    margin-right: -178px;}
+.s1{margin-left: 428px;}
+.button2:hover{font-size: 22px;
+    background: black;}
+.button:hover{font-size: 22px;
+    background: black;
+    color: white;}

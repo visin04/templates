@@ -1,0 +1,340 @@
+.header{
+    background: white;
+    }
+    
+    .logo{
+    
+    }
+    
+    .logoimg{
+    width: 106px;
+    margin-left: 156px;
+    }
+    
+    .servicesmenu{
+    position: absolute;   
+    top: 20px;    
+    left: 352px;
+    }
+    .menu{
+    
+    }
+    .listitems{ 
+    display: inline-block;  
+    margin-left: 31px;
+    }
+    .listitemsa{     
+    text-decoration: none;     
+    color: gray;     
+    text-transform: capitalize;    
+    font-size: 19px;
+    }
+    .first{
+        background-image: url(back.jpg);
+        height: 74%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top;
+    }
+    .slide{
+
+cursor: pointer;
+}
+    .slidesym{
+
+color: black;
+
+padding-left: 10px;
+
+font-size: 51px;
+
+padding-top: 4px;
+
+}
+    .left{
+
+position: relative;
+
+top: 228px;
+
+left: 47px;
+
+width: 60px;
+
+height: 60;
+
+background: #ffff00a6;
+
+border-radius: 49px;
+
+}
+    .right{
+
+position: absolute;
+
+left: 1239px;
+
+width: 60;
+
+height: 60;
+
+border-radius: 44px;
+
+background: #ffff00a6;
+
+top: 316px;
+}
+    .firstcont{
+
+color: white;
+
+width: 593px;
+
+position: relative;
+
+top: 52px;
+
+left: 155px;
+
+background: #37363669;
+
+}
+    .firstconth{
+
+text-transform: capitalize;
+
+font-size: 53px;
+
+}
+    .firstcontp{
+
+font-family: sans-serif;
+
+letter-spacing: 1;
+
+}
+.firstcontb{
+    
+background: gold;
+    
+color: white;
+    
+font-size: 20px;
+    
+text-transform: capitalize;
+    
+font-family: serif;
+    
+padding: 8px;
+    
+padding-left: 21px;
+    
+padding-right: 21;
+    
+border: navajowhite;
+    
+border-radius: 3px;
+    
+box-shadow: 7px 8px 25px 6px black;
+    
+cursor: pointer;
+}
+.second{
+
+padding-left: 73;
+
+padding-right: 73;
+}
+.secondmain{
+
+}
+.secondleft{
+
+width: 593px;
+}
+.secondlefth{
+
+text-transform: capitalize;
+
+font-size: 29px;
+}
+.secondleftp{
+
+color: gray;
+
+font-family: system-ui;
+
+margin-bottom: 44px;
+}
+.sym{
+
+background: aqua;
+
+color: white;
+
+height: 23px;
+
+width: 39px;
+
+text-align: center;
+
+padding-top: 6px;
+
+border-radius: 9px;
+
+cursor: pointer;
+}
+.secondright{
+    
+position: absolute;
+    
+top: 614px;
+    
+left: 883px;
+}
+.slb{
+
+display: block;
+
+margin-top: 22;
+}
+.follow{
+    
+font-size: 21px;
+    
+font-weight: bolder;
+    
+text-transform: capitalize;
+}
+.img1{
+    
+height: 475px;
+    
+box-shadow: -5px -5px 7px 7px gray;
+}
+.third{
+
+padding-left: 73;
+
+padding-right: 73;
+
+padding-top: 25px;
+
+background: #f0ecec;
+
+margin-top: 93px;
+
+padding-bottom: 72px;
+}
+.thirdh{
+
+text-align: center;
+
+text-transform: capitalize;
+
+font-family: math;
+
+letter-spacing: 3px;
+
+font-size: 34px;
+}
+.thirdp{
+
+text-align: center;
+
+color: gray;
+
+font-family: math;
+
+font-size: 18px;
+}
+.serviccesbox{
+
+padding-left: 20px;
+}
+.box{
+
+display: inline-block;
+
+width: 313px;
+
+text-align: center;
+
+margin-top: 33;
+
+margin-left: 33;
+
+background: white;
+
+padding: 12px;
+
+border-radius: 7px;
+}
+.boxsym{
+
+padding: 14px;
+
+background: deepskyblue;
+
+color: white;
+
+font-size: 37px;
+}
+.boxh{
+
+text-transform: capitalize;
+
+font-family: monospace;
+
+font-size: 30px;
+}
+.boxp{
+    
+color: gray;
+    
+line-height: 1.5;
+    
+letter-spacing: 1;
+}
+.fourmenus{text-align: center;margin-top: 49px;}
+.fourlist{
+
+display: inline-block;
+
+background: white;
+
+padding: 9px;
+
+padding-left: 26px;
+
+padding-right: 26;
+
+border-radius: 3px;
+
+cursor: pointer;
+}
+.fourlista{
+
+text-decoration: none;
+
+text-transform: uppercase;
+
+font-family: monospace;
+
+font-size: 18px;
+
+color: black;
+
+font-weight: bold;
+}
+.box:hover i,.box:hover p,.boc:hover h1,.box:hover{background: yellow;
+color: black;}
+.box:hover{
+    box-shadow: 0px 0px 18px 5px black;
+    padding: 23px;
+}
+.fourlist:hover{
+    background: yellow;
+    letter-spacing: 3px;
+    padding: 22;
+}

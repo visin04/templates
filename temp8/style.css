@@ -1,0 +1,176 @@
+.he1{margin-left: 83px;
+    margin-top: 104px;
+    font-family: fantasy;
+    letter-spacing: 4px;
+    font-size: 23px;}
+.header{background: darkgray;
+    width: 333px;
+    height: 1874px;
+}
+.he2{margin-left: 46px;
+color: brown;
+letter-spacing: 4px;
+margin-top: 53px;
+font-family: math;
+font-weight: 100;
+font-size: 19px;
+
+}
+.he21{color: white;
+    font-family: monospace;
+    font-size: 21px;}
+.mainbox1{
+    width: 515px;
+    height: 536px;
+    position: absolute;
+    top: 0;
+    left: 341px;
+}
+.mainboxh1{margin-top: 93px;
+    color: black;
+    font-size: 31px;
+    margin-left: 93px;
+    letter-spacing: 3px;
+    font-family: math;
+    font-weight: 100}
+.mainboxh12{font-size: 83px;
+    color: brown;
+    letter-spacing: 2;
+    font-family: monospace;
+    line-height: .9;
+}
+.mainboxp{margin-left: 43px;
+    margin-top: 63px;
+    letter-spacing: 2;
+    margin-right: 43px;
+    line-height: 1.5;
+    color: brown;
+}
+.c1{display: inline-block;
+    margin-left: 52px;
+    letter-spacing: 3px;cursor: pointer;
+}
+.img2{position: absolute;
+    top: 0;
+    left: 556px;
+    height: 543px;
+    width: 444px;
+    border: 2px solid violet;
+    border-radius: 22px}
+.mainbox2{background: gray;
+    height: 663px;
+    margin-left: 4px;
+    width: 1003px;display: flex;    margin: 0;}
+.mainbox3{background: gray;
+    width:1423px ;
+    height: 663px;
+}
+.mainbox31{    width: 223px;
+    height: 253px;
+    margin-left: 5px;
+    padding-top: 43px;
+    background: black;
+    color: white;
+    overflow: auto;
+    padding-left: 23px;
+    padding-right: 22;margin-top: 12px;
+    border-radius: 8px;
+}
+.mainbox312{    width: 223px;
+    height: 253px;
+    margin-left: 5px;
+    padding-top: 43px;
+    background: black;
+    color: white;
+    overflow: auto;
+    padding-left: 23px;
+    padding-right: 22;position: absolute;
+    top: 549px;
+    left: 283px;margin-top: 12px;
+    border-radius: 8px;}
+    .mainbox313{    width: 223px;
+        height: 253px;
+        margin-left: 5px;
+        padding-top: 43px;
+        background: black;
+        color: white;
+        overflow: auto;
+        padding-left: 23px;
+        padding-right: 22;margin-top: 15px;margin-top: 12px;
+    border-radius: 8px;}
+        .mainbox314{ width: 223px;
+            height: 253px;
+            margin-left: 5px;
+            padding-top: 43px;
+            background: black;
+            color: white;
+            overflow: auto;
+            padding-left: 23px;
+            padding-right: 22;
+            margin-top: 15px;
+            position: absolute;
+            top: 856px;
+            left: 283px;margin-top: 12px;
+    border-radius: 8px;}
+.a{background-color: white;
+    border-radius: 22px;
+    height: 64px}
+.mainbox21{padding-left: 12;
+    margin-top: 53px;
+}
+.m2h{text-align: center;
+    letter-spacing: 8px;
+    font-size: 73px;
+    font-family: math;
+    color: brown;
+    font-weight: 200;}
+.m2p{height: 103px;
+    letter-spacing: 1px;
+    line-height: 2;
+    color: white;
+    WIDTH: 430px}
+.b1{padding: 13px;
+    padding-left: 29px;
+    padding-right: 29px;
+    border-radius: 20px;
+    background: gray;
+    color: white;
+    letter-spacing: 7px;
+    display: block;
+    margin-top: 33px;
+    border: 4px solid brown;cursor: pointer;
+}
+.m2p2{height: 103px;
+    letter-spacing: 1px;
+    line-height: 2;
+    color: white;
+    WIDTH: 430px;
+}
+.i1{
+    color: brown;
+    letter-spacing: 10px;
+    font-size: 29px;
+}
+.imgbox{
+    position: absolute;
+    top: 1212px;background: gray;
+    left: 341px;width: 1003px
+}
+.im{display: inline-block;
+    height: 320px;
+    padding-left: 16px;
+    margin-top: 12px;width: 473px;
+}
+.b1:hover{font-size: 23px;
+    background: bisque;
+    color: black;}
+    .mainbox31:hover, .a:hover, .i1:hover{margin: 33px;
+    background: burlywood;}
+    .mainbox312:hover{margin: 33px;
+        background: burlywood;}
+        .mainbox313:hover{margin: 33px;
+            background: burlywood;}
+            .mainbox314:hover{margin: 33px;
+                background: burlywood;}
+.c1:hover{font-size: 23px;
+    color: blue;}

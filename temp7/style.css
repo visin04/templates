@@ -1,0 +1,89 @@
+.city{height: 184%;
+    width: 101%;}
+.logo{height: 73px;
+    display: inline-block;
+    margin-left: 15px;
+    letter-spacing: 3px;
+    font-family: math;
+    position: absolute;}
+.logosub{
+    margin-top: 0;
+    letter-spacing: 3px;
+    font-family: math;
+    position: absolute;
+    top: 38px;
+    left: 143px;
+    margin-left: 43px;}
+.header{background-image: url(city.jpg);
+height: 150%;
+background-repeat: no-repeat;
+background-color: rebeccapurple;
+background-size: cover;
+background-position: center;}
+.hp{background: rgb(3 17 30 / 56%);
+    height: 372px;
+    width: 663px;
+    font-size: 39px;
+    padding-left: 53px;
+    padding-top: 3px;
+    position: absolute;
+    top: 188px;}
+.hph{color: white;letter-spacing: 2px;}
+.to{color: yellow;}
+.thunder{
+    width: 513px;
+    margin-left: 53px;
+    letter-spacing: 1px;
+    overflow: auto;    display: flex;}
+.thun{height: 43px;
+    margin-top: 33px;
+    padding-right: 33px;}
+.hp1{margin-left: 42px;
+    margin-top: 43px;
+    letter-spacing: 2;
+    font-family: math;}
+.logoimg{margin-left: 93px;
+    margin-top: 35px;}
+.first{flex: 1;}
+.main{display: flex;}
+.why{margin-left: 83px;}
+.why2{letter-spacing: 1px;
+    line-height: 1.5;
+    color: gray;}
+.box{background: black;
+    height: 211px;margin-top: 92px;}
+.im{height: 102px;
+    background: yellow;
+    border-radius: 72px;
+    position: relative;
+    right: 52px;
+    top: 53px;}
+.boxh{color: yellow;
+    margin-left: 83px;
+    letter-spacing: 13px;
+    font-size: 43px;
+    position: relative;
+    bottom: 113px;
+}
+.boxp{margin-left: 93px;
+    position: relative;
+    bottom: 133px;
+    color: white;
+    line-height: 1.5;
+    letter-spacing: 1px;overflow: auto;    height: 103px;}
+.A{margin-top: 22px;}
+.con{color: black;
+    background: yellow;
+    width: 213px;
+    padding: 13px;
+    font-size: 23px;
+    padding-right: 83px;
+    padding-left: 53px;}
+footer{background: gray;
+    height: 133px;display: flex;
+}
+.f1{
+    margin-left: 143px;
+    margin-left: 143px;
+    margin-top: 42px;
+    flex:1 }

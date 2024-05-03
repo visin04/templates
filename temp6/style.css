@@ -1,0 +1,106 @@
+.logo{height: 72px;
+    margin-top: 26px;
+    margin-left: 43px;
+}
+.header{display: flex;}
+.header211{font-size: 55px; font-size: 42px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+.prox{color: gold;}
+.header221{position: relative;
+    bottom: 24px;
+    color: darkgrey;
+    letter-spacing: 1;
+}
+.b{margin-left: 19px;
+margin-top: -12px;
+}
+.c{background: lightgray;
+    margin-left: 374px;
+    height: 129px;
+    text-align: center;
+    width: 666px;
+}
+.headingidea1:hover{font-size: 33px;
+    letter-spacing: 9px;
+    color: darkgoldenrod;}
+
+.c1{letter-spacing: 8px;
+    font-weight: 200;
+    font-family: monospace;
+    font-size: 18px;
+    margin-top: 57px;
+}
+.imgm{width: 1254px;
+    height: 690px;
+}
+/* .yellowbox{height: 63px;
+    background: gold;
+    width: 466px;
+    position: absolute;
+    top: 110px;
+    left: 883px; */
+
+.transbox{background: rgb(227 190 0 / 61%);
+    height: 327px;
+    width: 703px;
+    position: relative;
+    bottom: 327px;
+    color: white;
+    display: flex;
+}
+.transtxt{margin-left: 46px;
+    font-size: 81px;
+    margin-top: 20px;}
+.ty{font-weight: 100;
+    padding-right: 33px;}
+.left{flex: 1;}
+.ideas{display: flex;
+    margin-left: 35px;margin-top: 53px;}
+.firstpart{    margin-bottom: -307px;}
+.b1{background: lightgray;}
+.secpart{display: flex;
+}
+.img{height: 97px;}
+.subpara{margin-left: 32px;
+    position: relative;
+    bottom: 24px;}
+.headingidea1{font-weight: 100;
+    cursor: pointer;
+    font-family: fantasy;
+    letter-spacing: 1px;
+    word-spacing: 7px;}
+.paraidea1{font-size: 18px;
+    margin-right: 33px;
+    letter-spacing: 1;
+    color: gray;}
+.ia{margin-top: 5px;}
+.contact{background: black;padding-bottom: 22;}
+.co1{color: gold;
+    font-size: 43px;
+    font-weight: 200;
+    letter-spacing: 5px;margin-bottom: 2;
+}
+.align{margin-left: 93px;
+    padding-top: 3px;}
+p{color: darkgray;}
+.os{position: relative;
+    left: 63px;
+    font-size: 38px;
+    letter-spacing: 2;
+    font-weight: 200;margin-right: 134px
+}
+.idea{display: flex;}
+.imgc{margin-left: 68px;
+    height: 34px;
+    position: relative;
+    top: 19px}
+.pin{color: darkolivegreen;
+    font-size: 18px;
+    margin-right: 22px;
+    letter-spacing: 1;
+    margin-left: 33px;
+}
+.z{margin-left: 66px;}
+.yellowbox{  background: gold;
+    height: 58px;
+    width: 666px;}

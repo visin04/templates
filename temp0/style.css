@@ -1,0 +1,332 @@
+.v::before{
+    content: '-------';
+    color: blue;
+    font-size: 34px;
+    font-weight: bolder;
+    letter-spacing: -2px;
+}
+.v::after{
+    content: '-------';
+    color: blue;
+    font-size: 34px;
+    font-weight: bolder;
+    letter-spacing: -2px;
+}
+.logoh::before{
+ 
+}
+.logoh{
+    
+width: 204px;
+}
+.services{
+
+margin-left: 342px;
+
+margin-top: 18px;
+}
+.servicesmenu{
+
+}
+.serviceslist{
+
+display: inline-block;
+
+margin-left: 29px;
+}
+.servicesanc{
+
+text-decoration: none;
+
+color: white;
+
+font-size: 17px;
+
+text-transform: capitalize;
+
+font-weight: bold;
+}
+.headermain{
+
+display: flex;
+
+background: black;
+}
+.logo{
+    
+margin-left: 82px;
+    
+color: white;
+    
+text-transform: capitalize;
+    
+cursor: pointer;
+}
+.callbut{
+
+}
+.callbutmain{
+
+margin-left: 28px;
+
+margin-top: 21px;
+
+font-size: 17px;
+
+font-family: fantasy;
+
+background: blue;
+
+color: white;
+
+border: 3px solid white;
+
+padding: 6px;
+
+padding-left: 11px;
+
+padding-right: 11;
+
+border-radius: 9px;
+
+cursor: pointer;
+
+letter-spacing: 2px;
+}
+.but{
+    
+padding-right: 8px;
+}
+.first{
+
+display: flex;
+
+background: blue;
+
+padding-left: 92px;
+
+padding-right: 92;
+
+padding-top: 83px;
+
+height: 357px;
+}
+.firstleft{
+
+margin-left: 192px;
+
+/* flex: 1; */
+
+width: 416px;
+}
+.firstlefth{
+
+font-size: 34px;
+
+text-transform: capitalize;
+
+color: white;
+}
+.firstleftp{
+
+color: gray;
+
+letter-spacing: 1;
+
+line-height: 1;
+
+margin-top: 54px;
+}
+.firstleftb{
+
+background: white;
+
+font-size: 15px;
+
+text-transform: capitalize;
+
+font-weight: bolder;
+
+color: blue;
+
+padding: 9px;
+
+padding-left: 27px;
+
+padding-right: 27;
+
+border: none;
+
+border-radius: 4px;
+
+margin-top: 43px;
+}
+.firstright{
+
+flex: 1;
+}
+.main{ }
+.rightimg{height: 243px;position: relative;top: 46px;left: 38px;box-shadow: 5px 5px 14px 8px azure;}
+.seco{
+    background: blue;
+    padding-left: 92px;
+    padding-right: 92;
+    padding-bottom: 101px;
+}
+.box{
+
+width: 303px;
+
+text-align: center;
+
+background: aliceblue;
+
+margin-left: 53px;
+
+border-radius: 12px;
+
+padding-bottom: 33px;
+transition-property: all;  transition-timing-function: ease-out; 
+
+
+}
+.boximg{
+
+height: 40px;
+
+width: 40px;
+
+background: aqua;
+
+color: yellow;
+
+font-size: 36px;
+
+margin-top: 23;
+}
+.boxh{
+
+text-transform: capitalize;
+}
+.boxp{
+
+color: blue;
+}
+.boxbut{
+
+background: aqua;
+
+border: none;
+
+border-radius: 13px;
+
+padding: 11px;
+}
+.boxanc{
+
+color: blue;
+
+padding: 22px;
+
+font-size: 16px;
+
+/* color: white; */
+
+text-decoration: none;
+
+font-family: fantasy;
+
+letter-spacing: 1px;
+}
+.boxes{
+    
+display: flex;
+}
+.second{
+
+display: flex;
+}
+.secondleft{
+
+flex: 1;
+}
+.secleftimg{
+
+height: 378px;
+
+position: relative;
+
+top: 28px;
+}
+.secondright{
+
+flex: 1;
+}
+.secondleftmain{
+
+display: flex;
+
+flex-direction: column;
+}
+.secondleftbox{
+
+display: flex;
+
+border: 3px dashed white;
+
+margin-bottom: 6px;
+}
+.secondleftboxl{
+
+}
+.secondleftboxlimg{
+
+font-size: 73px;
+
+color: white;
+
+padding-right: 23;
+
+margin-top: 39px;
+}
+.secondleftboxr{
+
+}
+.secondleftboxrh{
+
+font-size: 24px;
+
+text-transform: capitalize;
+}
+.secondleftboxrp{
+    
+color: white;
+}
+.header{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.box:hover p,.box:hover{ background: black; color: white; width: 500;transition-duration: 5s;
+   }
+.box:hover a{color: black;}
+.box:hover button{ background: white;}
+.logoh::before{
+    content: "";
+    width: 43px;
+    height: 5px;
+    background-color: white;
+    display: inline-block;
+    margin-bottom: 8px;
+
+}
+.logoh::after{
+    content: "";
+    width: 43px;
+    height: 5px;
+    background-color: white;
+    display: inline-block;
+    margin-bottom: 8px;
+
+}
