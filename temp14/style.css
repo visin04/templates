@@ -1,0 +1,130 @@
+.first{
+
+}
+.firstp{
+
+text-transform: uppercase;
+
+color: gray;
+
+font-family: monospace;
+
+font-size: 16px;
+
+letter-spacing: 3px;
+
+font-weight: bold;
+}
+.firstp::after{
+    content: "";
+    display: inline-block;
+    height: 2px;
+    width: 123px;
+    background: red;
+    position: absolute;
+    top: 18px;
+}
+.firsth{
+
+font-size: 43px;
+
+text-transform: uppercase;
+
+color: darkblue;
+
+margin-top: 0;
+}
+.boxes{
+
+background: white;
+
+width: 440px;
+
+padding-left: 32px;
+
+margin-left: 109px;
+
+display: flex;
+
+height: 251px;
+
+padding-right: 32;
+
+box-shadow: 0px 0px 5px 2px;
+}
+.boximg{
+
+height: 65px;
+
+position: relative;
+
+right: 73px;
+
+top: 22;
+
+border: 7px solid white;
+}
+.boxesh{
+
+font-size: 33px;
+
+font-weight: 400;
+
+text-transform: capitalize;
+
+margin-bottom: 0;
+
+font-family: sans-serif;
+}
+.boxesspan{
+
+font-size: 23px;
+
+color: gray;
+
+font-family: math;
+
+display: block;
+
+padding-bottom: 21px;
+
+font-weight: lighter;
+}
+.quote{
+
+display: inline;
+
+color: pink;
+}
+.boxesp{
+    
+display: inline;
+    
+font-family: "Quicksand";
+    
+font-size: 19px;
+    
+overflow: auto;
+    
+color: gray;
+}
+.boxleft{
+
+width: 22px;
+}
+.boxright{
+    
+}
+.msgbox{
+    
+display: flex;
+}
+.cont{overflow: auto;height: 113px;}
+
+.firstp::before{
+    content: "";
+    height: 2px;
+    width: 20px;
+    background: red;
+    display: block;
+}

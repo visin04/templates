@@ -1,0 +1,238 @@
+.header{
+
+    display: flex;
+    }
+    .logo{
+    
+    margin-left: 72px;
+    
+    text-transform: capitalize;
+    
+    font-size: 21px;
+    }
+    .logoh{
+    
+    margin-top: 0;
+    
+    cursor: pointer;
+    }
+    .logoh::before{
+        content: "";
+        height: 5px;
+        width: 252px;
+        background: red;
+        display: block;
+    }
+    .logoh::after{
+        content: "";
+        height: 5px;
+        width: 252px;
+        background: red;
+        display: block;
+    }
+    .downfall{
+    
+    margin-left: 315px;
+    
+    font-size: 32px;
+    
+    margin-top: 9px;
+    }
+    .downfallslider{
+    
+    cursor: pointer;
+    }
+    .services{
+    
+    margin-left: 75px;
+    }
+    .servicesmenus{
+    
+    }
+    .serviceslists{
+    
+    display: inline-block;
+    
+    margin-left: 40px;
+    }
+    .servicesanc{
+    
+    text-decoration: none;
+    
+    text-transform: capitalize;
+    
+    font-size: 19px;
+    
+    font-weight: bold;
+    
+    color: black;
+    }
+    .first{
+
+background: purple;
+
+padding-top: 33px;
+
+padding-bottom: 53px;
+
+}
+    .firstcontent{
+
+width: 593px;
+
+margin: auto;
+
+text-align: center;
+
+}
+    .firstcontenth{
+
+font-size: 44px;
+
+color: white;
+
+text-transform: capitalize;
+
+letter-spacing: 5px;
+
+font-family: sans-serif;
+
+}
+    .firstcontentp{
+
+color: red;
+
+letter-spacing: 1;
+
+line-height: 1.5;
+
+}
+    .firstcontentb{
+
+padding: 9px;
+
+font-size: 14px;
+
+text-transform: capitalize;
+
+padding-left: 27px;
+
+padding-right: 27;
+
+font-weight: bold;
+
+letter-spacing: 1;
+
+border: 2px solid white;
+
+color: white;
+
+border-radius: 17px;
+
+margin-top: 24px;
+
+box-shadow: 5px 5px 7px 0px black;
+
+cursor: pointer;
+
+}
+    .b1{
+
+background: orangered;
+
+}
+    .b2{
+        
+background: blue;
+        
+margin-left: 76px;
+    }
+    .second{
+        background-image: url(secondback.jpg);
+        background-repeat: no-repeat;
+        background-position: bottom;
+        background-size: cover;
+        height: 498px;
+        padding-top: 28px;
+    }
+    .secondmain{
+
+width: 703px;
+
+margin: auto;
+
+}
+    .box{
+
+background: white;
+
+width: 233px;
+
+padding: 12px;
+
+text-align: center;
+
+display: inline-block;
+
+margin-top: 61px;
+
+margin-left: 70px;
+
+box-shadow: 5px 5px 3px 7px black;
+
+transition-duration: 3s;
+}
+    .boximg{
+
+font-size: 44px;
+
+padding: 11px;
+
+background: orangered;
+
+position: relative;
+
+bottom: 31px;
+
+}
+    .boxh{
+
+margin: 0;
+
+text-transform: capitalize;
+
+}
+    .boxp{
+
+color: orangered;
+
+}
+.third{
+
+background: lightgray;
+
+height: 183px;
+}
+.thirdh{
+
+margin: 0;
+
+text-align: center;
+
+margin-top: 0px;
+
+position: relative;
+
+top: 113px;
+
+font-size: 22px;
+
+text-transform: capitalize;
+
+font-weight: 200;
+}
+.thirdh::after{
+    content: "freepik ";
+    color: orange;
+    font-size: 19px;
+}

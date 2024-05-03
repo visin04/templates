@@ -1,0 +1,71 @@
+.header{
+
+}
+.heading{
+
+display: inline-block;
+
+margin-left: 60px;
+}
+.headerlist1{
+
+display: inline-block;
+}
+.headerelements{
+
+display: inline-block;
+
+margin-left: 20px;
+
+font-size: 17px;
+
+text-transform: capitalize;
+}
+.headerelementancor{
+
+text-decoration: none;
+
+color: black;
+
+font-family: sans-serif;
+}
+
+.header2elementancor{
+
+}
+.headerlist2{display: inline-block;margin-left: 0px;}
+.header2element{
+
+display: inline-block;
+}
+.header2elementancor{
+    
+margin-left: 23px;
+    
+font-size: 24px;
+}
+.headerlist2but{
+    font-size: 28px;
+    padding: 11px;
+}
+.headerlist2funbut{
+
+}
+.headerlist2funbuth{
+    
+padding: 0px;
+    
+margin: 0;
+    
+font-family: monospace;
+    
+text-transform: capitalize;
+    
+font-size: 25px;
+}
+.forming{
+
+}
+.forming1{
+    
+}

@@ -1,0 +1,213 @@
+.header{
+
+    display: flex;
+    }
+    .logo{
+    
+    display: flex;
+    
+    margin-top: 10px;
+    }
+    .logoimg{
+    
+    height: 70px;
+    
+    margin-left: 46px;
+    }
+    .logoh2{
+    
+    margin-left: 9px;
+    
+    text-transform: capitalize;
+    
+    color: gold;
+    
+    margin-top: 16px;
+    
+    font-size: 32px;
+    }
+    .servicesmenu{
+    
+    }
+    .smenus{
+    
+    margin-left: 308px;
+    
+    margin-top: 27px;
+    }
+    .slist{
+    
+    display: inline-block;
+    
+    margin-left: 38px;
+    }
+    .slista{
+    
+    text-decoration: none;
+    
+    color: gray;
+    
+    text-transform: capitalize;
+    
+    letter-spacing: 1;
+    }
+    .soci{
+        
+    color: black;
+        
+    font-size: 26px;
+    }
+    .first{
+
+padding-bottom: 55px;
+
+}
+    .firstleft{
+
+    }
+    .note{
+
+height: 71px;
+
+position: relative;
+
+top: 51px;
+
+left: 74px;
+
+}
+    .firstlefth1{
+
+text-transform: capitalize;
+
+width: 230px;
+
+margin-left: 192px;
+
+font-size: 34px;
+
+}
+    .firstleftbut{
+
+text-transform: capitalize;
+
+font-size: 7px;
+
+margin-left: 196px;
+
+display: flex;
+
+display: inline-block;
+}
+    .oneline{
+
+padding: -1px;
+
+}
+    .firstlefth2{
+
+margin: 0;
+
+}
+    .pencil{
+
+height: 34px;
+
+display: block;
+
+margin-left: 315px;
+
+margin-top: 83px;
+
+}
+    .firstmain{
+
+display: flex;
+
+}
+    .firstright{
+        
+margin-left: 143px;
+    }
+    .butterfly{
+        
+height: 57px;
+        
+position: absolute;
+        
+top: 176px;
+        
+left: 419px;
+    }
+    .plot{
+
+font-size: 18px;
+
+padding-right: 7px;
+
+}
+    .butlogo{
+
+display: inline-block;
+
+}
+    .butcont{
+        
+display: inline-block;
+    }
+    .secondbut{
+
+margin-left: 9px;
+
+}
+    .r8img{
+        
+height: 303px;
+        
+margin-left: 132px;
+        
+margin-top: 114px;
+        
+box-shadow: 0px 0px 4px 8px;
+    }
+
+.second{
+
+background: antiquewhite;
+}
+.boxes{
+
+margin-left: 93px;
+
+display: flex;
+}
+.box{
+
+display: inline-block;
+
+background: aqua;
+
+text-align: center;
+
+margin-left: 63px;
+
+width: 163px;
+
+height: 163px;
+
+position: relative;
+
+bottom: 36px;
+}
+.boximg{
+    
+height: 45px;
+    
+border-radius: 55px;
+}
+.boxh{
+    
+margin-top: 49px;
+    
+text-transform: capitalize;
+}

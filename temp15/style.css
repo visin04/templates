@@ -1,0 +1,1384 @@
+.preheader {
+
+    background: darkblue;
+
+    display: flex;
+
+    height: 35px;
+
+}
+
+.preheaderlogo {
+
+    margin-top: 6px;
+}
+
+.logo {
+
+    height: 25px;
+}
+
+.devices {
+
+    width: 233;
+}
+
+.devicesmenus {
+
+    margin-top: 9px;
+}
+
+.deviceslist {
+
+    display: inline-block;
+
+    margin-left: 7px;
+
+    font-size: 18px;
+
+    cursor: pointer;
+}
+
+.deviceicon {
+
+    color: gray;
+}
+
+.headerslider {
+
+    margin-left: 218px;
+
+    width: 233;
+}
+
+.headerslidermenu {
+
+    margin-top: 0;
+
+    padding: 0;
+}
+
+.headersliderlist {
+
+    display: inline-block;
+
+    position: relative;
+
+    bottom: 10px;
+}
+
+.slidericon {
+
+    font-size: 15px;
+
+    padding: 8px;
+
+    color: gray;
+
+    position: relative;
+
+    bottom: 26px;
+}
+
+.headersliderlisth {
+
+    color: white;
+}
+
+.share {
+
+    margin-left: 244px;
+}
+
+.shareicon {
+
+    color: gray;
+
+    font-size: 20px;
+}
+
+.list1 {
+
+    position: relative;
+
+    bottom: 13px;
+
+    overflow: hidden;
+}
+
+.sharebut {
+
+    padding-left: 17px;
+
+    padding-right: 17px;
+
+    font-weight: bolder;
+
+    color: white;
+
+    background: deepskyblue;
+
+    border: none;
+
+    margin-top: 0px;
+
+    height: 35px;
+
+    border-radius: 3px;
+
+    margin-left: 14px;
+
+    cursor: pointer;
+}
+
+.butcont {
+
+    font-size: 15px;
+
+    text-transform: capitalize;
+
+    letter-spacing: 1;
+}
+
+.downbut {
+
+    color: white;
+
+    padding-right: 14px;
+}
+
+.deviceicon:hover {
+    color: white;
+}
+
+.slidericon:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.shareicon:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.sharebut:hover {
+    background: rgb(116, 215, 248);
+}
+
+.postheader {
+
+    display: flex;
+
+}
+
+.postheaderlogo {
+
+    margin-left: 10px;
+
+}
+
+.postheaderlogoh {
+
+    letter-spacing: 1;
+
+    font-weight: 100;
+
+    font-family: sans-serif;
+
+    text-transform: capitalize;
+
+    font-size: 36px;
+
+    color: gray;
+
+    margin-top: 5px;
+
+}
+
+.postheaderlogoh::after {
+    content: ".";
+    color: deepskyblue;
+    font-size: 57px;
+}
+
+.servicesheader {}
+
+.servicesheadermenus {
+
+    margin-top: 40px;
+}
+
+.servicesheaderlist {
+
+    display: inline-block;
+
+    margin-left: 34px;
+}
+
+.servicesheaderanch {
+
+    text-decoration: none;
+
+    text-transform: capitalize;
+
+    font-size: 17px;
+
+    color: gray;
+
+    font-family: math;
+
+    font-weight: 500;
+
+    padding-bottom: 12px;
+    transition-duration: 5s;
+    transition-property: border-bottom;
+    transition-timing-function: ease-out;
+
+
+
+}
+
+.servicesheadermenusicon {
+
+    font-size: 12px;
+
+    margin-left: 5px;
+}
+
+.posteheaderbutton {
+
+    margin-left: 83px;
+
+    margin-top: 23px;
+
+}
+
+.posteheaderbuttonmain {
+
+    padding: 10px;
+
+    font-size: 17px;
+
+    text-transform: capitalize;
+
+    color: white;
+
+    font-weight: bold;
+
+    background: deepskyblue;
+
+    padding-left: 24px;
+
+    padding-right: 24;
+
+    border: navajowhite;
+
+    border-radius: 6px;
+
+    font-family: sans-serif;
+
+    cursor: pointer;
+}
+
+.servicesheaderanch:hover {
+    color: deepskyblue;
+    border-bottom: 2px solid deepskyblue;
+    transition-duration: 3s;
+    transition-property: border;
+}
+
+.posteheaderbuttonmain:hover {
+    background: rgb(141, 216, 241);
+}
+
+.home {
+
+    padding-left: 70px;
+
+    padding-right: 70;
+}
+
+.homeimg {
+
+    height: 344px;
+
+    margin-top: 23px;
+
+}
+
+.homeh {
+
+    text-transform: capitalize;
+
+    font-size: 50px;
+
+    font-family: sans-serif;
+
+    font-weight: 100;
+
+    color: black;
+
+}
+
+.homeh::after {
+    content: "heroBiz";
+    color: deepskyblue;
+}
+
+.homep {
+
+    color: gray;
+
+    font-family: math;
+
+    font-size: 21px;
+
+}
+
+.homebut1 {
+
+    padding: 12px;
+
+    padding-left: 23px;
+
+    padding-right: 23;
+
+    font-size: 18px;
+
+}
+
+.homebut {
+
+    background: white;
+
+    border: navajowhite;
+
+    font-size: 18px;
+
+    text-transform: capitalize;
+
+    font-weight: bold;
+
+    color: gray;
+
+    margin-left: 47px;
+
+    cursor: pointer;
+
+}
+
+.homebuticon {
+
+    color: deepskyblue;
+
+    font-size: 27px;
+
+    margin-right: 7px;
+
+    position: relative;
+
+    top: 3px;
+
+}
+
+.homefirst {
+
+    text-align: center;
+
+    padding-bottom: 86px;
+}
+
+.homesecond {}
+
+.homebox {
+
+    width: 232px;
+
+    display: inline-block;
+
+    padding-left: 22;
+
+    margin-left: 37px;
+
+    height: 232px;
+
+    padding-top: 22px;
+
+    transition-duration: 3s;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+
+
+}
+
+.homeboxicon {
+
+    font-size: 37px;
+
+    color: deepskyblue;
+
+
+}
+
+.homeboxh {
+
+    text-transform: capitalize;
+
+    font-family: math;
+
+    font-size: 29px;
+
+    letter-spacing: 0.7px;
+
+    color: #535353;
+
+    margin-top: 20px;
+
+    font-weight: 300;
+
+}
+
+.homeboxp {
+
+    font-family: math;
+
+    font-size: 17px;
+
+    color: gray;
+
+    letter-spacing: .5;
+
+    line-height: 1.4;
+
+}
+
+.homebox:hover {
+
+    box-shadow: 0px 0px 3px 2px gray;
+    transition-duration: 4s;
+    position: relative;
+    bottom: 23;
+    transition-timing-function: ease-out;
+    transition-property: all;
+}
+
+.about {
+
+    padding-left: 80;
+
+    padding-right: 80;
+
+    height: 843px;
+}
+
+.abouth {
+
+    text-align: center;
+
+    text-transform: capitalize;
+
+    font-size: 36px;
+
+    color: black;
+
+    font-weight: 100;
+
+    font-family: math;
+}
+
+.aboutp {
+
+    text-align: center;
+
+    color: gray;
+
+    font-size: 18px;
+
+    letter-spacing: 1.3;
+}
+
+.aboutfirst {
+
+    display: flex;
+}
+
+.aboutleft {
+    width: 463px;
+}
+
+.aboutstar {
+    height: 452px;
+}
+
+.aboutimg {
+
+    height: 505px;
+
+    position: relative;
+
+    bottom: 415px;
+
+    left: 33px;
+}
+
+.aboutright {
+    margin-left: 73px;
+}
+
+.aboutrighth {
+
+    font-size: 37px;
+
+    font-weight: 100;
+
+    letter-spacing: 1;
+
+    font-family: math;
+
+    color: #605e5e;
+}
+
+.aboutrightmenu {
+
+    padding: 0;
+}
+
+.aboutrightlist {
+
+    display: inline-block;
+
+    font-size: 26px;
+
+    color: gray;
+
+    font-family: math;
+
+    margin-left: 42px;
+
+    font-weight: bold;
+
+    text-transform: capitalize;
+}
+
+.aboutrightlistsamp {
+
+    margin: 0;
+}
+
+.aboutrightp {
+
+    font-size: 16px;
+
+    font-family: sans-serif;
+}
+
+.aboutboxcont {
+
+    margin-top: 27px;
+}
+
+.aboutboxconticon {
+
+    font-size: 23;
+
+    color: deepskyblue;
+
+    margin-right: 6px;
+}
+
+.aboutboxconth {
+
+    display: inline;
+
+    font-size: 21px;
+
+    color: gray;
+
+    color: darkblue;
+}
+
+.aboutboxcontp {
+
+    font-size: 15px;
+
+    font-family: monospace;
+
+    margin-top: 6px;
+}
+
+.thirdslideer {
+
+    padding-top: 93px;
+
+    padding-bottom: 77;
+
+    background: gray;
+}
+
+.thirdslideericon {
+
+    height: 45px;
+
+    margin-left: 128px;
+}
+
+.aboutthirdgray {
+
+    padding-right: 77;
+
+    padding-left: 77;
+}
+
+.graybox {
+
+    background: #c9c5c5;
+
+    padding-left: 77;
+
+    padding-right: 77;
+
+    padding-top: 35px;
+
+    margin-top: 22;
+
+    border-radius: 21px;
+
+    display: flex;
+
+    padding-bottom: 77;
+}
+
+.grayboxleft {}
+
+.grayboxlefth {
+
+    font-size: 39px;
+
+    font-family: sans-serif;
+
+    font-weight: bolder;
+
+    color: darkblue;
+}
+
+.grayboxleftp {
+
+    font-size: 19px;
+
+    /* font-weight: bold; */
+
+    letter-spacing: 1;
+
+    line-height: 1.2;
+
+    color: white;
+
+    font-family: monospace;
+}
+
+.grayboxbutton {
+
+    padding: 7px;
+
+    font-size: 22px;
+
+    text-transform: capitalize;
+
+    padding-left: 22;
+
+    padding-right: 22;
+
+    font-weight: bold;
+
+    color: white;
+
+    background: deepskyblue;
+
+    letter-spacing: 1;
+
+    border: navajowhite;
+
+    border-radius: 11px;
+
+    margin-top: 43px;
+}
+
+.grayboxrightimg {
+
+    height: 483px;
+
+    padding-left: 52px;
+}
+
+.aboutfourth {
+
+    background: lightgray;
+}
+
+.aboutfortmain {
+
+    display: flex;
+
+    margin-top: 18px;
+
+    padding: 10px;
+}
+
+.aboutfortleft {}
+
+.aboutfortright {
+    background-image: url(https://bootstrapmade.com/demo/templates/HeroBiz/assets/img/onfocus-content-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-left: 54px;
+    padding-right: 24px;
+}
+
+.aboutfortrighth {
+
+    font-size: 49px;
+
+    color: white;
+
+    margin-bottom: 0;
+}
+
+.aboutfortrightp {
+
+    color: white;
+
+    font-family: sans-serif;
+
+    font-size: 19px;
+}
+
+.aboutfortrightmenu {
+
+    margin-top: 38px;
+}
+
+.aboutfortrightlist {
+
+    display: block;
+
+    margin-top: 11px;
+
+    font-size: 17px;
+
+    color: white;
+
+    font-family: monospace;
+}
+
+.abtleftimg {
+
+height: 418px;
+}
+
+.aboutfortrightlisticon {
+
+    color: deepskyblue;
+
+    padding-right: 8px;
+}
+
+.aboutplaybut {
+    position: absolute;
+    left: 282px;
+    top: 153px;
+    font-size: 63px;
+    color: deepskyblue;
+    padding: 9px;
+    background: white;
+    border-radius: 74px;
+    cursor: pointer;
+}
+
+.aboutfortrightbut {
+
+    padding: 9px;
+
+    font-size: 20px;
+
+    text-transform: capitalize;
+
+    font-weight: bold;
+
+    color: white;
+
+    background: deepskyblue;
+
+    border: navajowhite;
+
+    padding-left: 23px;
+
+    padding-right: 23;
+
+    border-radius: 16px;
+
+    cursor: pointer;
+}
+
+.servicesec {
+
+    padding-top: 30px;
+}
+
+.servicesech {}
+
+.servicesecp {}
+
+.serviceboxes {
+
+    display: inline-block;
+
+    margin-left: 44px;
+}
+
+.servicbox {
+
+    overflow: hidden;
+}
+
+.servicboximg {
+
+    height: 251px;
+
+    border-radius: 9px;
+}
+
+.servicboxcont {
+
+    position: relative;
+
+    bottom: 101px;
+
+    width: 252px;
+
+    background: #ffffffd6;
+
+    left: 27px;
+
+    text-align: center;
+
+    padding-left: 14px;
+
+    padding-right: 14;
+
+    box-shadow: 0px 0px 5px 1px;
+
+    padding-bottom: 9px;
+
+    border-radius: 6px;
+}
+
+.servicboxconticon {
+
+    padding: 8px;
+
+    background: white;
+
+    border-radius: 52px;
+
+    position: relative;
+
+    bottom: 31px;
+
+    color: deepskyblue;
+
+    height: 44px;
+
+    width: 53px;
+
+    font-size: 36px;
+
+    margin-top: 0px;
+
+    padding-top: 16px;
+}
+
+.servicboxconth {
+
+    margin-top: 0;
+
+    font-family: system-ui;
+}
+
+.servicboxcontp {
+
+    font-family: sans-serif;
+
+    line-height: 1.7;
+}
+
+.team {
+
+    margin-top: 312px;
+}
+
+.teamh {}
+
+.teamboxcont {
+
+    margin-left: 76px;
+}
+
+
+
+.teamboximgdp {
+
+    height: 308px;
+
+    border-radius: 9px;
+}
+
+.teamboxname {
+
+    background: white;
+
+    text-align: center;
+
+    width: 211px;
+
+    border-radius: 9px;
+
+    position: relative;
+
+    bottom: 62px;
+
+    left: 48px;
+
+    box-shadow: 0px 0px 3px 2px gainsboro;
+
+    color: gray;
+}
+
+.teamboxnameh2 {
+
+    padding-top: 19px;
+
+    margin-bottom: 0;
+
+    font-size: 30px;
+
+    font-family: sans-serif;
+
+    letter-spacing: 3px;
+
+    font-weight: 100;
+
+    text-transform: capitalize;
+
+    color: black;
+}
+
+.teamboxnameh3 {
+
+    margin: 0;
+
+    padding-bottom: 12px;
+
+    font-size: 19px;
+
+    /* letter-spacing: 9px; */
+
+    font-weight: 100;
+}
+
+.teamsbox {
+
+    display: flex;
+}
+
+.contact {
+
+    margin-top: 118px;
+
+    height: 580px;
+}
+
+.leftcontacts {
+    width: 513px;
+    flex: 1;
+}
+
+.address {
+
+    background: white;
+
+    text-align: center;
+
+    padding-top: 19px;
+
+    padding-bottom: 19;
+}
+
+.conta {
+
+    height: 30px;
+
+    width: 41px;
+
+    border: 2px dashed deepskyblue;
+
+    padding-top: 10px;
+
+    border-radius: 21px;
+}
+
+.addressh {
+
+    text-transform: capitalize;
+
+    color: gray;
+}
+
+.leftbot1 {
+
+    background: white;
+
+    display: inline-block;
+
+    width: 235px;
+
+    text-align: center;
+
+    margin-left: 0px;
+
+    padding-top: 18px;
+
+    padding-bottom: 18;
+}
+
+.leftbot {
+
+    /* text-align: center; */
+
+    margin-top: 13px;
+}
+
+.left1 {
+
+    margin-left: 17px;
+}
+
+.addressp {
+
+    letter-spacing: 1px;
+
+    font-family: 'Quicksand';
+}
+
+.rightcontacts {
+
+    flex: 1;
+
+    padding-left: 22px;
+
+    padding-right: 22;
+
+    background: white;
+
+    margin-left: 15px;
+
+    padding-top: 18px;
+}
+
+.namebox {
+
+    padding: 10px;
+
+    padding-right: 26px;
+}
+
+.subbox {
+
+    padding: 11px;
+
+    padding-right: 305px;
+
+    margin-top: 29px;
+}
+
+.txtmsgbox {
+
+    margin-top: 29px;
+
+    width: 488px;
+
+    padding: 9px;
+
+    height: 143px;
+}
+
+.sendmsg {
+
+    margin-top: 43px;
+
+    padding: 9px;
+
+    font-size: 18px;
+
+    text-transform: capitalize;
+
+    padding-left: 40px;
+
+    padding-right: 40;
+
+    letter-spacing: 1;
+
+    background: deepskyblue;
+
+    color: white;
+
+    border: none;
+
+    border-radius: 24px;
+
+    margin-left: 136px;
+}
+
+.sd:hover {
+    /* transition: 3s; */
+}
+
+.namebox2 {
+
+    margin-left: 67px;
+}
+
+.sendmsg:hover {
+    background: #52a3be
+}
+
+.contactdiv {
+    display: flex;
+}
+
+.preefooter {}
+
+.fotcontact {
+
+    width: 632px;
+
+    /* margin-left: 13px; */
+}
+
+.footpre {
+
+    /* padding-top: 10px; */
+
+    display: flex;
+
+    padding-left: 84px;
+
+    PADDING-RIGHT: 42px;
+
+    BACKGROUND: #8080804a;
+}
+
+.contsoci {}
+
+.fotcontacth {
+
+    text-transform: capitalize;
+
+    /* color: gray; */
+}
+
+.fotcontactp {
+
+    width: 258px;
+
+    font-family: 'Quicksand';
+}
+
+.con {
+
+    width: 24px;
+
+    height: 25px;
+
+    background: deepskyblue;
+
+    padding: 5px;
+
+    font-size: 25px;
+
+    border-radius: 4px;
+
+    color: white;
+
+    cursor: pointer;
+}
+
+.fotcontactmenu {}
+
+.fotcontactlist {
+
+    display: block;
+
+    line-height: 2.6;
+
+    font-size: 18px;
+}
+
+.gre {
+
+    font-size: 11px;
+
+    color: gray;
+
+    padding-right: 4px;
+}
+
+.fota {
+
+    text-decoration: none;
+
+    color: gray;
+}
+
+.fotcontacth2 {
+
+    text-transform: capitalize;
+
+    color: gray;
+
+    margin-left: 17px;
+}
+
+.searchbox {
+
+    padding: 11px;
+
+    padding-left: 22;
+}
+
+.subscri {
+
+    padding: 11;
+
+    font-size: 14px;
+
+    background: deepskyblue;
+
+    color: white;
+
+    letter-spacing: 5px;
+
+    border: navy;
+}
+
+.fotcontactp2 {
+
+    font-family: 'Quicksand';
+
+    line-height: 2;
+}
+
+.underline {
+
+    width: 168px;
+
+    height: 4px;
+
+    background: aqua;
+
+    margin: auto;
+}
+
+.lastfoot {}
+
+.lastfooth {
+
+    font-family: emoji;
+}
+
+.lastfootp {}
+
+.lastfootpspam {
+
+    color: blue;
+
+    cursor: pointer;
+}
+
+.lastfotsocial {
+
+    margin-left: 462px;
+
+    margin-top: 32px;
+}
+
+.lastfooter {
+
+    display: flex;
+
+    padding-left: 47px;
+
+    padding-right: 64px;
+
+    background: #686565;
+}
+
+.coni {
+
+    margin-left: 9px;
+
+    background: black;
+}
+
+.lastfootermain {
+
+    display: flex;
+}
+
+.servicboximg:hover {
+    transform: scale(1.3);
+}
+
+
+.teamboxname:hover .sociald{
+    display: block;
+}
+
+.sociald {
+  position: absolute;
+    left: 11px;
+    bottom: 75px;
+    font-size: 24px;
+    display: none;
+}
+
+.s {
+
+    margin-left: 6px;
+
+    padding: 6px;
+
+    background: deepskyblue;
+
+    color: white;
+
+    border-radius: 33px;
+
+    opacity: 2;
+}
+
+.s:hover {}
+.servicboxcont:hover i{background: deepskyblue;
+color: white;}
+.aboutfortrightbut:hover{
+    background: rgb(107, 210, 244);
+}
+.aboutplaybut:hover{
+    background: deepskyblue;
+    color: white;
+}
+.coni:hover{
+    background: deepskyblue;
+}
+.fota:hover{color: blue;}
+main{width: 1319px;}

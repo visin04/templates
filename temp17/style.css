@@ -1,0 +1,275 @@
+.appointment{
+    background: aliceblue;
+    padding-right: 73px;
+    padding-left: 73;
+    padding-bottom: 229px;
+    }
+    .appointmentc{
+    text-align: center;
+    }
+    .appointmenth{
+    font-size: 32px;
+    text-transform: uppercase;
+    padding-top: 63px;
+    font-family: sans-serif;
+    letter-spacing: 1;
+    }
+    .appointmentp{
+    letter-spacing: 1;
+    font-family: sans-serif;
+    padding-top: 23px;
+    line-height: 2;
+    }
+    .dep{
+        background: none;
+        }
+        .depd{
+        }
+        .deptcont{
+        display: flex;
+        }
+        .deptleft{
+        display: flex;
+        flex-direction: column;       
+        width: 654px;       
+        /* padding-left: 22; */
+        }
+        .deptleftcont{       
+        padding-left: 20px;       
+        background: aliceblue;       
+        margin-top: 4px;        
+        padding-right: 20;        
+        height: 123px;        
+        border-left: 6px solid deepskyblue;       
+        cursor: pointer;
+        }
+        .deptleftconth{      
+        color: deepskyblue;     
+        font-family: sans-serif;     
+        font-size: 20px;
+        }
+        .deptleftcontp{     
+        font-family: sans-serif;      
+        font-size: 15px;      
+        letter-spacing: 1px;
+        }
+        .deptright{  
+        padding-left: 33px;
+        }
+        .deptrighth{  
+        color: deepskyblue;  
+        letter-spacing: 1;   
+        font-family: sans-serif;   
+        font-size: 36px;      
+        margin: 0;      
+        margin-top: 14px;
+        }
+        .deptrightp{            
+       color: gray;           
+        font-family: sans-serif;           
+        letter-spacing: 1;
+        }
+        .deptrightmg{   
+        height: 243px;      
+        margin-top: 50px;      
+        float: left;
+        }
+        .deptrightp1{      
+        font-family: sans-serif;      
+        letter-spacing: 1;      
+        position: relative;       
+        width: 827px;       
+        line-height: 1.6;       
+        top: 54px;       
+        left: 23;
+        }
+        @media  screen and (min-width: 320px) and (max-width: 480px)
+        {
+            body{
+                
+width: 1093px;
+            }
+            .appointment{
+                background: aliceblue;
+                padding-right: 73px;
+                padding-left: 73;
+                padding-bottom: 229px;
+                }
+                .appointmentc{
+                text-align: center;
+                }
+                .appointmenth{
+                font-size: 62px;
+                text-transform: uppercase;
+                padding-top: 63px;
+                font-family: sans-serif;
+                letter-spacing: 1;
+                }
+                .appointmentp{
+                letter-spacing: 1;
+                font-family: sans-serif;
+                padding-top: 23px;
+                line-height: 2;
+                font-size: 30px;
+                }
+                .dep{
+                    background: none;
+                    }
+                    .depd{
+                    width: 509px;
+                    margin: auto;
+                    }
+                    .deptcont{
+                    display: block;
+                    }
+                    .deptleft{
+                    display: inline-block;
+                    width: 100%;
+                    /* padding-left: 22; */
+                    }
+                    .deptleftcont{
+                    padding-left: 20px;
+                    background: aliceblue;
+                    margin-top: 4px;
+                    padding-right: 20;
+                    height: 123px;
+                    border-left: 6px solid deepskyblue;
+                    cursor: pointer;
+                    display: inline-block;
+                    width: 377px;
+                    margin-left: 33px;
+                    margin-top: 73px;
+                    height: 267px;
+                    }
+                    .deptleftconth{
+                    color: deepskyblue;
+                    font-family: sans-serif;
+                    font-size: 41px;
+                    }
+                    .deptleftcontp{
+                    font-family: sans-serif;
+                    font-size: 30px;
+                    letter-spacing: 1px;
+                    }
+                    .deptright{  
+                    padding-left: 33px;
+                    }
+                    .deptrighth{
+                    color: deepskyblue;
+                    letter-spacing: 1;
+                    font-family: sans-serif;
+                    font-size: 36px;
+                    margin: 0;
+                    margin-top: 14px;
+                    text-align: center;
+                    font-size: 103px;
+                    }
+                    .deptrightp{
+                   color: gray;
+                   font-family: sans-serif;
+                   letter-spacing: 1;
+                   font-size: 43px;
+                   }
+                    .deptrightmg{
+                    height: 793px;
+                    margin-top: 50px;
+                    float: left;
+                    }
+                    .deptrightp1{
+                    font-family: sans-serif;
+                    letter-spacing: 1;
+                    position: relative;
+                    width: 827px;
+                    line-height: 1.6;
+                    left: 23;
+                    font-size: 53px;
+                    }
+        }@media screen and (min-width:481px) and (max-width:768px)
+        {
+
+        .appointment{
+            background: aliceblue;
+            padding-right: 73px;
+            padding-left: 73;
+            padding-bottom: 229px;
+            }
+            .appointmentc{
+            text-align: center;
+            }
+            .appointmenth{
+            font-size: 32px;
+            text-transform: uppercase;
+            padding-top: 63px;
+            font-family: sans-serif;
+            letter-spacing: 1;
+            }
+            .appointmentp{
+            letter-spacing: 1;
+            font-family: sans-serif;
+            padding-top: 23px;
+            line-height: 2;
+            }
+            .dep{
+                background: none;
+                }
+                .depd{
+                }
+                .deptcont{
+                display: flex;
+                }
+                .deptleft{
+                display: flex;
+                flex-direction: column;       
+                width: 654px;       
+                /* padding-left: 22; */
+                }
+                .deptleftcont{       
+                padding-left: 20px;       
+                background: aliceblue;       
+                margin-top: 4px;        
+                padding-right: 20;        
+                height: 123px;        
+                border-left: 6px solid deepskyblue;       
+                cursor: pointer;
+                }
+                .deptleftconth{      
+                color: deepskyblue;     
+                font-family: sans-serif;     
+                font-size: 20px;
+                }
+                .deptleftcontp{     
+                font-family: sans-serif;      
+                font-size: 15px;      
+                letter-spacing: 1px;
+                }
+                .deptright{  
+                padding-left: 33px;
+                }
+                .deptrighth{  
+                color: deepskyblue;  
+                letter-spacing: 1;   
+                font-family: sans-serif;   
+                font-size: 36px;      
+                margin: 0;      
+                margin-top: 14px;
+                }
+                .deptrightp{            
+               color: gray;           
+                font-family: sans-serif;           
+                letter-spacing: 1;
+                }
+                .deptrightmg{   
+                height: 243px;      
+                margin-top: 50px;      
+                float: left;
+                }
+                .deptrightp1{      
+                font-family: sans-serif;      
+                letter-spacing: 1;      
+                position: relative;       
+                width: 827px;       
+                line-height: 1.6;       
+                top: 54px;       
+                left: 23;
+                }
+            }

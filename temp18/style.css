@@ -1,0 +1,56 @@
+.header{
+
+}
+.headerlogo{
+
+margin-left: 83px;
+}
+.headerlogoh{
+
+text-transform: capitalize;
+
+font-family: math;
+
+font-weight: bold;
+
+letter-spacing: 4px;
+
+color: blue;
+
+font-size: 33px;
+}
+.headeroptions{
+
+margin-top: 19px;
+}
+.headeroptionsmenu{
+
+}
+.headeroptionslists{
+
+display: inline-block;
+
+margin-left: 62px;
+}
+.headeroptionslistanch{
+
+text-decoration: none;
+
+text-transform: capitalize;
+
+font-size: 19px;
+font-weight: bold;
+}
+.headermenubutton{
+
+}
+.headermenubutton{
+
+margin-left: 87px;
+
+margin-top: 16px;
+}
+.headermain{
+    
+display: flex;
+} 
